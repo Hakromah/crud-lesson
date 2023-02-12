@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "type": "module",
   "name": "crud",
   "version": "1.0.0",
